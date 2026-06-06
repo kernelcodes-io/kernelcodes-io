@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/kernelcodes-io/">
     <img src="https://img.shields.io/badge/LinkedIn-kernelcodes--io-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://wa.me/5516996110883">
+  <a href="https://wa.me/5516996410883">
     <img src="https://img.shields.io/badge/WhatsApp-contato%20direto-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
@@ -145,7 +145,7 @@ Como **Kernel Codes**, meu objetivo é evoluir no desenvolvimento fullstack e co
   <a href="https://www.linkedin.com/in/kernelcodes-io/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Acessar LinkedIn" />
   </a>
-  <a href="https://wa.me/5516996110883">
+  <a href="https://wa.me/5516996410883">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chamar no WhatsApp" />
   </a>
 </p>
