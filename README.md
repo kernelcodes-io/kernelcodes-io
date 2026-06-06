@@ -124,8 +124,12 @@ Como **Kernel Codes**, meu objetivo é evoluir no desenvolvimento fullstack e co
 ## GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kernelcodes-io&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br&rank_icon=github" alt="Estatísticas do GitHub de kernelcodes-io" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kernelcodes-io&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por kernelcodes-io" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kernelcodes-io&theme=github_dark" alt="Resumo do perfil GitHub de kernelcodes-io" />
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kernelcodes-io&theme=github_dark" alt="Repositórios por linguagem de kernelcodes-io" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kernelcodes-io&theme=github_dark" alt="Estatísticas gerais do GitHub de kernelcodes-io" />
 </div>
 
 <div align="center">
