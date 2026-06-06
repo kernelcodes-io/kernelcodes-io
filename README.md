@@ -66,13 +66,7 @@ Como **Kernel Codes**, meu objetivo é evoluir no desenvolvimento fullstack e co
   </a>
 </p>
 
-| Competência | Nível atual |
-| --- | --- |
-| **C#** | Intermediário |
-| **C / C++** | Básico, em evolução |
-| **Bancos de dados relacionais** | Básico a intermediário |
-| **APIs e arquitetura** | Em desenvolvimento contínuo |
-| **Git e GitHub** | Uso prático em projetos e versionamento |
+
 
 ## Fundamentos e práticas
 
@@ -106,11 +100,7 @@ Como **Kernel Codes**, meu objetivo é evoluir no desenvolvimento fullstack e co
   <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </p>
 
-## Formação acadêmica
 
-| Instituição | Curso | Período | Status |
-| --- | --- | --- | --- |
-| **UNIP** | Análise e Desenvolvimento de Sistemas | 4º semestre | Concluído |
 
 **Conhecimentos desenvolvidos:** fundamentos de programação, lógica computacional, estruturas de dados, banco de dados, engenharia de software, metodologias ágeis e desenvolvimento orientado a objetos.
 
