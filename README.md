@@ -1,354 +1,165 @@
+<a id="topo"></a>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=900&height=70&lines=Kernel+Codes;Henrique+%7C+Software+Developer;C%23+%7C+SQL+%7C+Sistemas+Corporativos;Back-end+%7C+APIs+%7C+Automacao+de+Processos" alt="Apresentação animada de Henrique, Kernel Codes" />
+</div>
 
-
-<!-- Título animado profissional -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=3200&pause=700&color=3498DB&center=true&vCenter=true&width=820&height=65&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!+👨‍💻;Desenvolvedor+de+Software+com+experiência+em+sistemas+corporativos;Foco+em+Arquitetura%2C+Back-end%2C+APIs+e+Automação+de+Processos;Compromisso+com+boas+práticas%2C+segurança+e+alta+performance" alt="Título animado profissional do README" />
+  <a href="mailto:henrique.kernelcodes@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-henrique.kernelcodes%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+  <a href="https://www.linkedin.com/in/kernelcodes-io/">
+    <img src="https://img.shields.io/badge/LinkedIn-kernelcodes--io-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/5516996110883">
+    <img src="https://img.shields.io/badge/WhatsApp-contato%20direto-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </p>
 
-
-
-
-<!-- Status Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-brightgreen?style=flat-square&logo=statuspal&logoColor=white" alt="Status"/>
-  <img src="https://img.shields.io/badge/Disponibilidade-Aberto%20a%20Oportunidades-blue?style=flat-square" alt="Disponibilidade"/>
-  <img src="https://img.shields.io/badge/Nível-Iniciante%20%7C%20Aprendendo-yellow?style=flat-square" alt="Nível"/>
+  <img src="https://img.shields.io/badge/Foco-Sistemas%20Corporativos-2EA043?style=flat-square" alt="Foco em sistemas corporativos" />
+  <img src="https://img.shields.io/badge/Backend-C%23%20%7C%20SQL-58A6FF?style=flat-square" alt="Backend com C# e SQL" />
+  <img src="https://img.shields.io/badge/Disponibilidade-Aberto%20a%20Oportunidades-8957E5?style=flat-square" alt="Aberto a oportunidades" />
+  <img src="https://img.shields.io/badge/Evolucao-Continua-F0B72F?style=flat-square" alt="Evolução técnica contínua" />
 </p>
 
-<br>
-
 ---
 
-<br>
+## Sobre mim
 
-## 📋 Índice
+Sou formado em **Análise e Desenvolvimento de Sistemas** e tenho atuação profissional em ambientes corporativos na área de **Suporte Técnico e Sistemas**, com experiência no atendimento a usuários finais, PDVs e sistemas administrativos.
 
-- [Sobre Mim](#-sobre-mim)
-- [Formação Acadêmica](#-formação-acadêmica)
-- [Habilidades Técnicas](#habilidades-técnicas)
-- [Ferramentas & Ambientes de Desenvolvimento](#-ferramentas--ambientes-de-desenvolvimento)
-- [Estatísticas do GitHub](#-estatísticas-do-github)
-- [Contato & Redes Sociais](#-contato--redes-sociais)
-- [Topo](#topo)
+Minha base técnica é voltada ao desenvolvimento de software com foco em **back-end**, **bancos de dados**, **automação de rotinas**, **integração de sistemas** e organização de código em camadas. Em projetos próprios, aplico programação orientada a objetos, modelagem de dados, versionamento com Git/GitHub e boas práticas para construir soluções estáveis, legíveis e fáceis de manter.
 
-<br>
+Como **Kernel Codes**, meu objetivo é evoluir no desenvolvimento fullstack e contribuir com sistemas corporativos orientados a dados, qualidade operacional e entrega de valor técnico.
 
----
+## Perfil técnico
 
-<br>
+| Área | Atuação |
+| --- | --- |
+| **Sistemas corporativos** | Suporte, sustentação, análise de rotinas, atendimento a usuários, PDVs e sistemas administrativos. |
+| **Desenvolvimento** | C#, C, C++, POO, organização em camadas e padronização de código. |
+| **Back-end e integração** | APIs REST/SOAP, automação de processos e comunicação com bases de dados. |
+| **Dados** | SQL Server, MySQL, PostgreSQL, modelagem de dados e consultas SQL. |
+| **Arquitetura e qualidade** | MVC, Clean Architecture, Git, GitHub, Git Flow, commits semânticos e manutenibilidade. |
 
-## 🚀 Sobre Mim
+## Stack principal
 
-<table>
-<tr>
-<td width="100%" valign="top">
+<p align="center">
+  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/">
+    <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  </a>
+  <a href="https://en.cppreference.com/w/c/language">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  </a>
+  <a href="https://en.cppreference.com/w/cpp">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  </a>
+  <a href="https://learn.microsoft.com/pt-br/sql/sql-server/">
+    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  </a>
+</p>
 
-### 👨‍💻 Perfil Profissional
+| Competência | Nível atual |
+| --- | --- |
+| **C#** | Intermediário |
+| **C / C++** | Básico, em evolução |
+| **Bancos de dados relacionais** | Básico a intermediário |
+| **APIs e arquitetura** | Em desenvolvimento contínuo |
+| **Git e GitHub** | Uso prático em projetos e versionamento |
 
-Formado em Análise e Desenvolvimento de Sistemas, com atuação profissional em ambientes corporativos na área de Suporte Técnico e Sistemas. Experiência no atendimento a usuários finais, PDVs e sistemas administrativos, garantindo estabilidade operacional, cumprimento de processos e qualidade no suporte.
+## Fundamentos e práticas
 
-Possui base técnica em desenvolvimento de software, com aplicação prática em projetos próprios envolvendo programação orientada a objetos, integração com bancos de dados, automação de rotinas e organização estruturada de código.
+- Programação orientada a objetos, lógica computacional, estruturas de dados e algoritmos.
+- Modelagem de dados, consultas SQL e integração entre aplicação e banco.
+- Organização de código em camadas, MVC e conceitos de Clean Architecture.
+- Automação de rotinas, padronização, documentação e melhoria contínua.
+- Versionamento com Git, GitHub, Git Bash, Git Flow e commits semânticos.
 
-A Kernel Code atua no desenvolvimento Fullstack voltado a sistemas corporativos e aplicações orientadas a banco de dados. Trabalha com C#, C e C++, além de SQL Server e MySQL, aplicando boas práticas de versionamento, organização em camadas e padronização de código para criar soluções estáveis, escaláveis e de fácil manutenção.
+## Ferramentas
 
-**Características:**
-- 🔍 Atenção à qualidade, organização e boas práticas de desenvolvimento.
-- 🎯 Compromisso com evolução técnica contínua e soluções eficientes.
-- 🤝 Colaboração em projetos com foco em resultado e valor técnico.
+<p align="center">
+  <a href="https://visualstudio.microsoft.com/pt-br/vs/">
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+  </a>
+  <a href="https://netbeans.apache.org/front/main/index.html">
+    <img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="Apache NetBeans" />
+  </a>
+  <a href="https://cursor.com/">
+    <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </a>
+  <a href="https://github.com/kernelcodes-io">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+</p>
 
-### 🎯 Objetivos
-
-- Atuar profissionalmente no desenvolvimento e sustentação de sistemas.
-- Aplicar conhecimentos em backend, integração de sistemas e bancos de dados.
-- Contribuir para projetos com foco em qualidade, organização e manutenibilidade.
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-<br>
-
-## 🎓 Formação Acadêmica
-
-<table>
-<tr>
-<td width="100%" valign="top">
-
-### 📚 Educação
+## Formação acadêmica
 
 | Instituição | Curso | Período | Status |
-|------------|-------|---------|--------|
-| **UNIP** | Análise e Desenvolvimento de Sistemas | 4º Semestre | 🟢 Concluido |
+| --- | --- | --- | --- |
+| **UNIP** | Análise e Desenvolvimento de Sistemas | 4º semestre | Concluído |
 
-### 📖 Conhecimentos Adquiridos
+**Conhecimentos desenvolvidos:** fundamentos de programação, lógica computacional, estruturas de dados, banco de dados, engenharia de software, metodologias ágeis e desenvolvimento orientado a objetos.
 
-- Fundamentos de programação e lógica computacional
-- Estruturas de dados e algoritmos
-- Desenvolvimento orientado a objetos
-- Banco de dados e modelagem de dados
-- Engenharia de software e metodologias ágeis
+## Objetivos profissionais
 
-</td>
-</tr>
-</table>
+- Atuar com desenvolvimento e sustentação de sistemas corporativos.
+- Aplicar C#, SQL, integração de sistemas e boas práticas de back-end em soluções reais.
+- Evoluir tecnicamente em arquitetura, APIs, automação e qualidade de software.
+- Contribuir em times e projetos com organização, responsabilidade e foco em resultado.
 
-<br>
+## GitHub
 
----
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kernelcodes-io&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br&rank_icon=github" alt="Estatísticas do GitHub de kernelcodes-io" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kernelcodes-io&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por kernelcodes-io" />
+</div>
 
-<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kernelcodes-io&radius=12&theme=github-dark&area=true&hide_border=true&bg_color=0D1117&color=58A6FF&line=2EA043&point=F0B72F&title_color=58A6FF" height="260" alt="Gráfico de atividade no GitHub" />
+</div>
 
-## 🛠️ Habilidades Técnicas
-
-### 💻 Linguagens de Programação
-
-<table>
-<tr>
-<td align="center" width="33%">
-  <h4>Backend</h4>
-  <p>
-    <a href="https://pt.wikipedia.org/wiki/C_Sharp">
-      <img src="https://img.shields.io/badge/C%23-8E55D5?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-    </a>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Nível-Intermediário-blue?style=flat-square" alt="Nível C#"/>
-  </p>
-</td>
-<td align="center" width="33%">
-  <h4>System Programming</h4>
-  <p>
-    <a href="https://en.cppreference.com/w/cpp.html">
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-    </a>
-    <a href="https://en.cppreference.com/w/cpp.html">
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-    </a>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Nível-Básico-yellow?style=flat-square" alt="Nível C/C++"/>
-  </p>
-</td>
-</tr>
-</table>
-
-### 🗄️ Bancos de Dados
-
-<table>
-<tr>
-<td align="center" width="100%">
-  <p>
-    <a href="https://www.postgresql.org/">
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-    </a>
-    <a href="https://learn.microsoft.com/pt-br/ssms/install/install">
-      <img src="https://img.shields.io/badge/MSSQL-3B2E58?style=for-the-badge&logo=mssql&logoColor=white" alt="MSSQL"/>
-    </a>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Conhecimento-Básico%20a%20Intermediário-blue?style=flat-square" alt="Nível BD"/>
-    <img src="https://img.shields.io/badge/Foco-SQL%20%7C%20Modelagem%20de%20Dados-lightgrey?style=flat-square" alt="Foco BD"/>
-  </p>
-</td>
-</tr>
-</table>
-
-### 🔧 Paradigmas & Conceitos
-
-<table>
-<tr>
-<td align="center" width="100%">
-  <p>
-    <img src="https://img.shields.io/badge/POO-Object--Oriented-orange?style=flat-square" alt="POO"/>
-    <img src="https://img.shields.io/badge/API-REST%20%7C%20SOAP-blue?style=flat-square" alt="API"/>
-    <img src="https://img.shields.io/badge/Arquitetura-MVC%20%7C%20Clean%20Architecture-green?style=flat-square" alt="Arquitetura"/>
-    <img src="https://img.shields.io/badge/Versionamento-Git%20%7C%20GitHub-purple?style=flat-square" alt="Versionamento"/>
-  </p>
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-<br>
-
-## 💻 Ferramentas & Ambientes de Desenvolvimento
-
-### 🖥️ IDEs & Editores de Código
-
-<table>
-<tr>
-<td align="center" width="50%">
-  <h4>Ambientes Principais</h4>
-  <p>
-    <a href="https://visualstudio.microsoft.com/pt-br/vs/">
-      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio"/>
-    </a>
-    <a href="https://code.visualstudio.com">
-      <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-    </a>
-  </p>
-</td>
-<td align="center" width="50%">
-  <h4>Editores Alternativos</h4>
-  <p>
-    <a href="https://netbeans.apache.org/front/main/index.html">
-      <img src="https://img.shields.io/badge/apache%20netbeans-ADD439?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" alt="NetBeans"/>
-    </a>
-    <a href="https://cursor.com/">
-      <img src="https://img.shields.io/badge/Cursor-000000.svg?&style=for-the-badge&logo=Cursor&logoColor=white" alt="Cursor"/>
-    </a>
-  </p>
-</td>
-</tr>
-</table>
-
-### 🔗 Controle de Versão & Colaboração
-
-<table>
-<tr>
-<td align="center" width="100%">
-  <p>
-    <a href="https://git-scm.com">
-      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    </a>
-    <a href="https://github.com/kernelcodes-io">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Conhecimento-Git%20Bash%20%7C%20Git%20Flow-blue?style=flat-square" alt="Git Skills"/>
-    <img src="https://img.shields.io/badge/Práticas-Commit%20Semântico%20%7C%20Branching-green?style=flat-square" alt="Git Practices"/>
-  </p>
-</td>
-</tr>
-</table>
-
-### 🖱️ Sistema Operacional
+## Contato
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-  <img src="https://img.shields.io/badge/Ambiente-Desenvolvimento%20Windows-lightgrey?style=flat-square" alt="Ambiente"/>
+  <a href="mailto:henrique.kernelcodes@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" />
+  </a>
+  <a href="https://www.linkedin.com/in/kernelcodes-io/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Acessar LinkedIn" />
+  </a>
+  <a href="https://wa.me/5516996110883">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chamar no WhatsApp" />
+  </a>
 </p>
 
-<br>
+<p align="center">
+  <strong>Aberto a oportunidades, colaboração em projetos e networking na área de tecnologia.</strong>
+</p>
 
 ---
 
-<br>
+<p align="center">
+  <i>"Programar é transformar problemas reais em soluções claras, úteis e sustentáveis."</i>
+</p>
 
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-    
-
-  ### 📈 Gráfico de Atividade
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kernelcodes-io&radius=16&theme=radical&area=true&hide_border=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=ffffff&title_color=00FFFF" height="250" alt="Gráfico de atividade"/>
-  
-</div>
-
-<br>
-
----
-
-<br>
-
-## 📬 Contato & Redes Sociais
-
-<table>
-<tr>
-<td align="center" width="33%">
-  <h4>📧 E-mail</h4>
-  <p>
-    <a href="mailto:henrique.kernelcodes@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-  </p>
-  <p>
-    <code>henrique.kernelcodes@gmail.com</code>
-  </p>
-</td>
-<td align="center" width="33%">
-  <h4>💼 LinkedIn</h4>
-  <p>
-    <a href="https://www.linkedin.com/in/kernelcodes-io/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Perfil-Profissional-blue?style=flat-square" alt="LinkedIn Profile"/>
-  </p>
-</td>
-<td align="center" width="33%">
-  <h4>💬 WhatsApp</h4>
-  <p>
-    <a href="https://wa.me/5516920041023" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-    </a>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Disponível-Contato%20Direto-green?style=flat-square" alt="WhatsApp Available"/>
-  </p>
-</td>
-</tr>
-  <td align="center" width="33%">
-  <h4>💬 Instagram</h4>
-  <p>
-    <a href="https://instagram.com/kernelcodes.io" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Perfil-Profissional-blue?style=flat-square" alt="LinkedIn Profile"/>
-  </p>
-</td>
-</table>
-
-<br>
-
-<div align="center">
-  
-  ### 🤝 Conecte-se Comigo
-  
-  <p>
-    <img src="https://img.shields.io/badge/Status-Aberto%20a%20Colaborações-brightgreen?style=for-the-badge" alt="Status"/>
-    <img src="https://img.shields.io/badge/Resposta-Rápida-blue?style=for-the-badge" alt="Response"/>
-  </p>
-  
-  <p>
-    <i>Estou sempre aberto a novas oportunidades, colaborações em projetos e networking na área de tecnologia!</i>
-  </p>
-  
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-  
-  ### 📝 Nota Final
-  
-  <p>
-    <i>"A programação não é apenas escrever código, é resolver problemas e criar soluções que fazem a diferença."</i>
-  </p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Última%20Atualização-2026-blue?style=flat-square" alt="Update"/>
-    <img src="https://img.shields.io/badge/Perfil-Ativo-brightgreen?style=flat-square" alt="Active"/>
-  </p>
-  
-</div>
-
-<br>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Perfil-Ativo-2EA043?style=flat-square" alt="Perfil ativo" />
+  <img src="https://img.shields.io/badge/Ultima%20Atualizacao-2026-58A6FF?style=flat-square" alt="Última atualização em 2026" />
+  <a href="#topo">
+    <img src="https://img.shields.io/badge/Voltar%20ao%20topo-0D1117?style=flat-square" alt="Voltar ao topo" />
+  </a>
+</p>
